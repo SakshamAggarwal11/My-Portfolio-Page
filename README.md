@@ -1,1 +1,1 @@
-In this project I have made my portfolio page in which some of my skiils and projects are mentioned
+A complete detailed picture of my computer science journey is mentioned in this page ,all my learnings , all my archivements , projects everything is mentioned 
